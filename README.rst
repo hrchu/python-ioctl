@@ -1,9 +1,9 @@
 python-ioctl
 ============
 
-This Python module contains some simple helper functions for calling `fcntl.ioctl()`_.
+This Python module contains some simple helper functions for calling `ioctl()`_.
 
-.. _`fcntl.ioctl()`: https://docs.python.org/3/library/fcntl.html#fcntl.ioctl
+.. _`ioctl()`: http://man7.org/linux/man-pages/man2/ioctl.2.html
 
 Example
 -------
